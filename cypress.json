@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDxagXYYSp4npIXrx6CjqWNzG6p0pI3MJ6haKhVzhf7W31Bg/viewform",
+  "componentFolder": "config/component",
+  "downloadsFolder": "config/downloads",
+  "fileServerFolder": "",
+  "fixturesFolder": "config/fixtures",
+  "integrationFolder": "e2e",
+  "pluginsFile": "config/plugins",
+  "screenshotOnRunFailure": false,
+  "screenshotsFolder": "screenshots",
+  "supportFile": "config/support",
+  "testFiles": "**/*.*",
+  "video": false,
+  "videosFolder": "videos",
+  "viewportHeight": 810,
+  "viewportWidth": 1440
+}

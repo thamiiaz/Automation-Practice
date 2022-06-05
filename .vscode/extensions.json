@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "andrew-codes.cypress-snippets",
+    "shelex.vscode-cy-helper",
+    "dbaeumer.vscode-eslint"
+  ]
+}

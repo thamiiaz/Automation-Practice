@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.rulers": [
+    {
+      "color": "#4e5461",
+      "column": 80
+    }
+  ]
+}
